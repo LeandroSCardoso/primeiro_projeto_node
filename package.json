@@ -2,7 +2,7 @@
   "name": "primeiro_projeto_node",
   "version": "1.0.0",
   "description": "# Linguagem - html - css - javascript",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "jest",
