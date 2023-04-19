@@ -1,1 +1,6 @@
-# primeiro_projeto_node
+# PRIMEIRO PROJETO NODEJS 
+
+# Linguagem
+- html
+- css
+- javascript
